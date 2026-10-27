@@ -1,64 +1,85 @@
-# `sarib710` — github profile
+<!-- sarib710 | graphite -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d10&height=180&section=header&text=SARIB710&fontSize=48&fontColor=d4d4d8&fontAlignY=48&desc=building%20things%20that%20feel%20impossible&descSize=13&descColor=85858d&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=08090b&height=220&section=header&text=SARIB710&fontSize=64&fontColor=d4d4d8&fontAlignY=43&desc=building%20things%20that%20feel%20impossible&descSize=14&descColor=777780&animation=fadeIn" />
 
 <br/>
 
-**developer · creator · independent builder**
+<code>developer</code> &nbsp;·&nbsp; <code>creator</code> &nbsp;·&nbsp; <code>independent builder</code>
 
-[github](https://github.com/Sarib710) · [repositories](https://github.com/Sarib710?tab=repositories)
+<br/><br/>
+
+[repositories](https://github.com/Sarib710?tab=repositories) &nbsp; / &nbsp; [projects](https://github.com/Sarib710?tab=repositories) &nbsp; / &nbsp; [contact](https://github.com/Sarib710)
 
 </div>
 
 ---
-
-### `01 / about`
 
 ```text
-i build things, experiment with ideas, and learn by creating.
-interested in software, automation, ai, and the space between
-a simple idea and something worth building.
+~/github/Sarib710
+
+currently    building & experimenting
+interests    software · automation · ai · space
+philosophy   learn by making
+status       always in progress
 ```
 
-- currently exploring software development and automation
-- building projects that combine creativity and technology
-- always learning something new
+### `01 — about`
 
-### `02 / statistics`
+i like turning ideas into things people can actually use.
+
+from discord bots and automation to web projects and experiments, i'm interested in how software works, how things connect, and how much can be built from a simple idea.
+
+i prefer creating over waiting until i know everything.
+
+### `02 — the numbers`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarib710&show_icons=true&hide_border=true&bg_color=0b0d10&title_color=d4d4d8&text_color=85858d&icon_color=a3a3a3&ring_color=8b8b8b" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarib710&layout=compact&hide_border=true&bg_color=0b0d10&title_color=d4d4d8&text_color=85858d" width="42%" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarib710&show_icons=true&hide_border=true&bg_color=08090b&title_color=d4d4d8&text_color=92929b&icon_color=a3a3a3&ring_color=85858d" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarib710&layout=compact&hide_border=true&bg_color=08090b&title_color=d4d4d8&text_color=92929b" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sarib710&hide_border=true&background=0b0d10&ring=8b8b8b&fire=a3a3a3&currStreakLabel=d4d4d8&sideLabels=85858d&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=66666e" width="70%" alt="Contribution streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Sarib710&hide_border=true&background=08090b&ring=85858d&fire=b0b0b8&currStreakLabel=d4d4d8&sideLabels=85858d&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=66666e" />
 
 </div>
 
-### `03 / selected work`
+### `03 — selected work`
 
-> a space for projects worth building.
+**things in the making.**
 
-Explore my repositories and current experiments.
+| project | direction |
+|:--|:--|
+| `sydrom` | discord automation & bot development |
+| `cxrvml` | astronomy & space exploration |
+| `valerius` | digital identity & visual design |
+| `experiments` | ideas, tools & things worth exploring |
 
-[**browse all repositories ↗**](https://github.com/Sarib710?tab=repositories)
+*Project names describe concepts; links can be added once the corresponding repositories are public.*
 
-### `04 / activity`
+[explore repositories →](https://github.com/Sarib710?tab=repositories)
+
+### `04 — activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarib710&bg_color=0b0d10&color=85858d&line=777780&point=d4d4d8&area=true&area_color=26272b&hide_border=true&custom_title=contribution%20activity" width="100%" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarib710&bg_color=08090b&color=85858d&line=777780&point=d4d4d8&area=true&hide_border=true&custom_title=contribution%20activity" />
 
 </div>
 
----
+### `05 — elsewhere`
 
 <div align="center">
+
+[github](https://github.com/Sarib710) &nbsp; · &nbsp; [all repositories](https://github.com/Sarib710?tab=repositories)
+
+<br/>
 
 <sub>designed by sarib · © 2026</sub>
 
 </div>
+
+<!-- graphite / end -->
